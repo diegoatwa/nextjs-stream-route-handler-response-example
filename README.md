@@ -1,6 +1,10 @@
-## Description
-
 Simple example of how to get stream response using Route Handlers with App Router
+
+One request is made and the response is returned in 3 parts.
+
+Useful for when you need to make several asynchronous requests in the backend but the partial answer is already useful for the user.
+
+Access the online example on [nextjs-stream-route-handler-response-example](https://nextjs-stream-route-handler-response-example.vercel.app/)
 
 Read more: [NEXT.JS Docs - Route handlers - #streaming](https://nextjs.org/docs/app/building-your-application/routing/route-handlers#streaming)
 
